@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\Documents\\GitHub\\desktop-tutorial\\Karpov\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{650699B6-8F22-49BB-A6EE-41493CDB612A}|Karpov\\Karpov.csproj|c:\\users\\1\\documents\\github\\desktop-tutorial\\karpov\\karpov\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650699B6-8F22-49BB-A6EE-41493CDB612A}|Karpov\\Karpov.csproj|solutionrelative:karpov\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\GitHub\\desktop-tutorial\\Karpov\\Karpov\\Program.cs",
+              "RelativeDocumentMoniker": "Karpov\\Program.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\GitHub\\desktop-tutorial\\Karpov\\Karpov\\Program.cs",
+              "RelativeToolTip": "Karpov\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T10:06:00.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
